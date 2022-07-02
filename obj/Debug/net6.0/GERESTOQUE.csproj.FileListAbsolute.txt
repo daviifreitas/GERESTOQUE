@@ -1,0 +1,70 @@
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.AssemblyReference.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.AssemblyInfoInputs.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.AssemblyInfo.cs
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.CoreCompileInputs.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.RazorAssemblyInfo.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.RazorAssemblyInfo.cs
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\appsettings.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.staticwebassets.runtime.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.exe
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.deps.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.runtimeconfig.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.pdb
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\bundle\GERESTOQUE.styles.css
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\projectbundle\GERESTOQUE.bundle.scp.css
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.CopyComplete
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\refint\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.pdb
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.genruntimeconfig.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\ref\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\appsettings.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.staticwebassets.runtime.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.exe
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.deps.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.runtimeconfig.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\GERESTOQUE.pdb
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.AssemblyReference.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.AssemblyInfoInputs.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.AssemblyInfo.cs
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.CoreCompileInputs.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.RazorAssemblyInfo.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.RazorAssemblyInfo.cs
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\bundle\GERESTOQUE.styles.css
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\scopedcss\projectbundle\GERESTOQUE.bundle.scp.css
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.csproj.CopyComplete
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\refint\GERESTOQUE.dll
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.pdb
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\GERESTOQUE.genruntimeconfig.cache
+C:\Users\Davi\OneDrive\Área de Trabalho\Estudy thing\MVCs\GERESTOQUE\GERESTOQUE\obj\Debug\net6.0\ref\GERESTOQUE.dll
